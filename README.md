@@ -1,5 +1,3 @@
-# Deep_Learning_Neural_Networks
-
 # MNIST & CIFAR-10 Dataset Exploration using TensorFlow and PyTorch
 
 ## Introduction
